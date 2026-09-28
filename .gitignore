@@ -1,0 +1,13 @@
+# Arduino build / temporary files
+*.hex
+*.elf
+*.eep
+*.map
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
